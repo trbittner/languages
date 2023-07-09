@@ -1,0 +1,501 @@
+en_word: a
+es_word: una
+en_sentence: I need a pen.
+es_sentence: Necesito una pluma.
+
+en_word: able
+es_word: capaz
+en_sentence: She is able to solve complex problems.
+es_sentence: Ella es capaz de resolver problemas complejos.
+
+en_word: about
+es_word: sobre
+en_sentence: Tell me about your trip.
+es_sentence: Cuéntame sobre tu viaje.
+
+en_word: absence
+es_word: ausencia
+en_sentence: His absence was noticed by everyone.
+es_sentence: Su ausencia fue notada por todos.
+
+en_word: absorption
+es_word: absorción
+en_sentence: The sponge has great absorption capabilities.
+es_sentence: La esponja tiene grandes capacidades de absorción.
+
+en_word: acceleration
+es_word: aceleración
+en_sentence: The car gained speed and accelerated quickly.
+es_sentence: El carro ganó velocidad y aceleró rápidamente.
+
+en_word: acceptance
+es_word: aceptación
+en_sentence: The artist was thrilled by the acceptance of her work.
+es_sentence: La artista estaba emocionada por la aceptación de su trabajo.
+
+en_word: accessory
+es_word: accesorio
+en_sentence: She bought a new accessory for her phone.
+es_sentence: Ella compró un accesorio nuevo para su teléfono.
+
+en_word: accident
+es_word: accidente
+en_sentence: The car crash was a terrible accident.
+es_sentence: El choque de autos fue un accidente terrible.
+
+en_word: account
+es_word: cuenta
+en_sentence: I need to create a new email account.
+es_sentence: Necesito crear una cuenta de correo electrónico nueva.
+
+en_word: acid
+es_word: ácido
+en_sentence: Lemon juice contains citric acid.
+es_sentence: El jugo de limón contiene ácido cítrico.
+
+en_word: across
+es_word: a través de
+en_sentence: We walked across the bridge to reach the other side.
+es_sentence: Caminamos a través del puente para llegar al otro lado.
+
+en_word: act
+es_word: actuar
+en_sentence: He loves to act in plays and movies.
+es_sentence: Le encanta actuar en obras de teatro y películas.
+
+en_word: acting
+es_word: actuación
+en_sentence: Her acting in the play was outstanding.
+es_sentence: Su actuación en la obra de teatro fue excepcional.
+
+en_word: active
+es_word: activo
+en_sentence: Regular exercise helps maintain an active lifestyle.
+es_sentence: El ejercicio regular ayuda a mantener un estilo de vida activo.
+
+en_word: actor
+es_word: actor
+en_sentence: The famous actor won an award for his performance.
+es_sentence: El actor famoso ganó un premio por su actuación.
+
+en_word: addition
+es_word: adición
+en_sentence: In addition to studying, she works part-time.
+es_sentence: Además de estudiar, ella trabaja a tiempo parcial.
+
+en_word: address
+es_word: dirección
+en_sentence: Can you give me your address?
+es_sentence: ¿Puedes darme tu dirección?
+
+en_word: adjacent
+es_word: adyacente
+en_sentence: The hotel room was adjacent to the swimming pool.
+es_sentence: La habitación del hotel era adyacente a la piscina.
+
+en_word: adjustment
+es_word: ajuste
+en_sentence: The mechanic made some adjustments to the car's engine.
+es_sentence: El mecánico hizo algunos ajustes al motor del carro.
+
+en_word: adventure
+es_word: aventura
+en_sentence: They embarked on an exciting adventure in the jungle.
+es_sentence: Se embarcaron en una emocionante aventura en la selva.
+
+en_word: advertisement
+es_word: anuncio
+en_sentence: The advertisement on TV caught my attention.
+es_sentence: El anuncio en la televisión captó mi atención.
+
+en_word: advice
+es_word: consejo
+en_sentence: He gave me good advice for the job interview.
+es_sentence: Él me dio buenos consejos para la entrevista de trabajo.
+
+en_word: after
+es_word: después de
+en_sentence: We'll meet at the cafe after work.
+es_sentence: Nos encontraremos en el café después de trabajar.
+
+en_word: afterthought
+es_word: ocurrencia tardía
+en_sentence: "I should have brought an umbrella," he said as an afterthought.
+es_sentence: "Debería haber traído un paraguas", dijo como ocurrencia tardía.
+
+en_word: again
+es_word: otra vez
+en_sentence: Let's watch the movie again.
+es_sentence: Vamos a ver la película otra vez.
+
+en_word: against
+es_word: contra
+en_sentence: The team played against their biggest rivals.
+es_sentence: El equipo jugó contra sus mayores rivales.
+
+en_word: age
+es_word: edad
+en_sentence: What is the legal drinking age in this country?
+es_sentence: ¿Cuál es la edad legal para beber en este país?
+
+en_word: agency
+es_word: agencia
+en_sentence: She works for a modeling agency.
+es_sentence: Ella trabaja para una agencia de modelaje.
+
+en_word: agent
+es_word: agente
+en_sentence: The detective was searching for the elusive agent.
+es_sentence: El detective estaba buscando al esquivo agente.
+
+en_word: ago
+es_word: hace
+en_sentence: He quit his job a month ago.
+es_sentence: Dejó su trabajo hace un mes.
+
+en_word: agreement
+es_word: acuerdo
+en_sentence: They reached an agreement after hours of negotiation.
+es_sentence: Llegaron a un acuerdo después de horas de negociación.
+
+en_word: air
+es_word: aire
+en_sentence: The fresh air in the mountains was invigorating.
+es_sentence: El aire fresco en las montañas era vigorizante.
+
+en_word: airplane
+es_word: avión
+en_sentence: They traveled to Europe by airplane.
+es_sentence: Viajaron a Europa en avión.
+
+en_word: alcohol
+es_word: alcohol
+en_sentence: He prefers not to drink alcohol.
+es_sentence: Él prefiere no tomar alcohol.
+
+en_word: algebra
+es_word: álgebra
+en_sentence: Algebra is a branch of mathematics.
+es_sentence: El álgebra es una rama de las matemáticas.
+
+en_word: all
+es_word: todo
+en_sentence: She ate all the cookies.
+es_sentence: Ella se comió todas las galletas.
+
+en_word: allowance
+es_word: asignación
+en_sentence: My parents give me a weekly allowance.
+es_sentence: Mis padres me dan una asignación semanal.
+
+en_word: almost
+es_word: casi
+en_sentence: We're almost there, just a few more minutes.
+es_sentence: Casi llegamos, solo faltan unos minutos.
+
+en_word: along
+es_word: a lo largo de
+en_sentence: We walked along the beach enjoying the sunset.
+es_sentence: Caminamos a lo largo de la playa disfrutando del atardecer.
+
+en_word: also
+es_word: también
+en_sentence: She sings and dances, and she also acts.
+es
+
+_sentence: Ella canta y baila, y también actúa.
+
+en_word: alternative
+es_word: alternativa
+en_sentence: If you don't like this option, we can explore an alternative.
+es_sentence: Si no te gusta esta opción, podemos explorar una alternativa.
+
+en_word: aluminium
+es_word: aluminio
+en_sentence: The soda can is made of aluminium.
+es_sentence: La lata de refresco está hecha de aluminio.
+
+en_word: always
+es_word: siempre
+en_sentence: She always arrives on time for meetings.
+es_sentence: Ella siempre llega puntual a las reuniones.
+
+en_word: ambition
+es_word: ambición
+en_sentence: His ambition is to become a successful entrepreneur.
+es_sentence: Su ambición es convertirse en un empresario exitoso.
+
+en_word: ammonia
+es_word: amoníaco
+en_sentence: Be careful when using ammonia as a cleaning agent.
+es_sentence: Ten cuidado al usar amoníaco como agente de limpieza.
+
+en_word: among
+es_word: entre
+en_sentence: She was among the first to arrive at the party.
+es_sentence: Ella estaba entre las primeras en llegar a la fiesta.
+
+en_word: amount
+es_word: cantidad
+en_sentence: What is the total amount of money you need?
+es_sentence: ¿Cuál es la cantidad total de dinero que necesitas?
+
+en_word: amplitude
+es_word: amplitud
+en_sentence: The earthquake had a high amplitude on the Richter scale.
+es_sentence: El terremoto tuvo una alta amplitud en la escala Richter.
+
+en_word: amusement
+es_word: diversión
+en_sentence: The amusement park was filled with laughter and joy.
+es_sentence: El parque de diversiones estaba lleno de risas y alegría.
+
+en_word: anchor
+es_word: ancla
+en_sentence: The ship dropped anchor in the harbor.
+es_sentence: El barco soltó el ancla en el puerto.
+
+en_word: and
+es_word: y
+en_sentence: She likes to read and write.
+es_sentence: A ella le gusta leer y escribir.
+
+en_word: anesthetic
+es_word: anestésico
+en_sentence: The dentist applied an anesthetic before the procedure.
+es_sentence: El dentista aplicó un anestésico antes del procedimiento.
+
+en_word: angle
+es_word: ángulo
+en_sentence: The triangle has three angles.
+es_sentence: El triángulo tiene tres ángulos.
+
+en_word: angry
+es_word: enojado
+en_sentence: He was angry about the situation.
+es_sentence: Estaba enojado por la situación.
+
+en_word: animal
+es_word: animal
+en_sentence: The zoo is home to a variety of animal species.
+es_sentence: El zoológico alberga una variedad de especies animales.
+
+en_word: ankle
+es_word: tobillo
+en_sentence: She twisted her ankle while playing soccer.
+es_sentence: Se torció el tobillo mientras jugaba al fútbol.
+
+en_word: another
+es_word: otro
+en_sentence: Can I have another piece of cake?
+es_sentence: ¿Puedo tener otro pedazo de pastel?
+
+en_word: answer
+es_word: respuesta
+en_sentence: Please give me an answer as soon as possible.
+es_sentence: Por favor, dame una respuesta lo antes posible.
+
+en_word: ant
+es_word: hormiga
+en_sentence: The ant carries food to its nest.
+es_sentence: La hormiga lleva comida a su hormiguero.
+
+en_word: any
+es_word: cualquier
+en_sentence: You can choose any color you like.
+es_sentence: Puedes elegir cualquier color que te guste.
+
+en_word: anybody
+es_word: cualquier persona
+en_sentence: Is there anybody home?
+es_sentence: ¿Hay alguien en casa?
+
+en_word: anyhow
+es_word: de todos modos
+en_sentence: I don't like that movie. Anyhow, let's watch something else.
+es_sentence: No me gusta esa película. De todos modos, veamos algo más.
+
+en_word: anyone
+es_word: cualquiera
+en_sentence: Anyone can participate in the competition.
+es_sentence: Cualquiera puede participar en la competencia.
+
+en_word: anything
+es_word: cualquier cosa
+en_sentence: You can ask me anything you want.
+es_sentence: Puedes preguntarme cualquier cosa que quieras.
+
+en_word: anywhere
+es_word: en cualquier lugar
+en_sentence: I'm willing to go anywhere for a vacation.
+es_sentence: Estoy dispuesto a ir en cualquier lugar de vacaciones.
+
+en_word: apparatus
+es_word: aparato
+en_sentence: The scientist used a complex apparatus for the experiment.
+es_sentence: El científico utilizó un aparato complejo para el experimento.
+
+en_word: appendage
+es_word: apéndice
+en_sentence: The octopus has several tentacles as appendages.
+es_sentence: El pulpo tiene varios tentáculos como apéndices.
+
+en_word: apple
+es_word: manzana
+en_sentence: She took a bite of the juicy apple.
+es_sentence: Dio un mordisco a la jugosa manzana.
+
+en_word: application
+es_word: aplicación
+en_sentence: I downloaded a new application for my phone.
+es_sentence: Descargué una nueva aplicación para mi teléfono.
+
+en_word: approval
+es_word: aprobación
+en_sentence: He eagerly awaited his supervisor's approval.
+es_sentence: Esperaba con ansias la aprobación de su supervisor.
+
+en_word: approximation
+es_word: aproximación
+en_sentence: The estimate was just an approximation of the actual cost.
+es_sentence: El cálculo fue solo una aproximación del costo real.
+
+en_word: april
+es_word: abril
+en_sentence: My birthday is in April.
+es_sentence: Mi cumpleaños es en abril.
+
+en_word: arbitrary
+es_word: arbitrario
+en_sentence: The decision seemed arbitrary and unfair.
+es_sentence: La decisión parecía arbitraria e injusta.
+
+en_word: arbitration
+es_word: arbitraje
+en_sentence: The dispute was resolved through arbitration.
+es_sentence: La disputa se resolvió mediante arbitraje.
+
+en_word: arc
+es_word: arco
+en_sentence: The rainbow formed a beautiful arc in the sky.
+es_sentence: El arco iris formó un hermoso arco en el cielo.
+
+en_word: arch
+es_word: arco
+en_sentence: The cathedral has a magnificent arch.
+es_sentence: La catedral tiene un magnífico arco.
+
+en_word: area
+es_word: área
+en_sentence: The park covers a large area of land.
+es_sentence: El parque cubre una gran área de terreno.
+
+en_word: argument
+es_word: argumento
+en_sentence: They had a heated argument about politics.
+es_sentence: Tuvieron una acalorada discusión sobre política.
+
+en_word: arithmetic
+es_word: aritmética
+en_sentence: Arithmetic is the branch of mathematics that deals with numbers.
+es_sentence: La aritmética es una rama de las matemáticas que trata con números.
+
+en_word: arm
+es_word: brazo
+en_sentence: He injured his arm while playing sports.
+es_sentence: Se lastimó el brazo mientras practicaba deportes.
+
+en_word: army
+es_word: ejército
+en_sentence: The army marched in formation.
+es_sentence: El ejército marchó en formación.
+
+en_word: arrangement
+es_word: arreglo
+en_sentence: They made an arrangement to meet at the cafe.
+es_sentence: Hicieron un arreglo para encontrarse en el café.
+
+en_word: art
+es_word: arte
+en_sentence: She enjoys painting and exploring different forms of art.
+es_sentence: Disfruta pintando y explorando diferentes formas de arte.
+
+en_word: as
+es_word: como
+en_sentence: She works as a teacher.
+es_sentence: Ella trabaja como profesora.
+
+en_word: asbestos
+es_word: amianto
+en_sentence: Asbestos is a hazardous material.
+es_sentence: El amianto es un material peligroso.
+
+en_word: ash
+es_word: ceniza
+en_sentence: The fire reduced the wood to ash.
+es_sentence: El fuego redujo la madera a ceniza.
+
+en_word: asset
+es_word: activo
+en_sentence: Her intelligence is her greatest asset.
+es_sentence: Su inteligencia es su mayor activo.
+
+en_word: assistant
+es_word: asistente
+en_sentence: The executive hired a new assistant to help with administrative tasks.
+es_sentence: El ejecutivo contrató un nuevo asistente para ayudar con las tareas administrativas.
+
+en_word: at
+es_word: en
+en_sentence: I'll meet you at the restaurant.
+es_sentence: Nos encontraremos en el restaurante.
+
+en_word: attack
+es_word: ataque
+en_sentence: The army launched a surprise attack on the enemy camp.
+es_sentence: El ejército lanzó un ataque sorpresa al campamento enemigo.
+
+en_word: attempt
+es_word: intento
+en_sentence: She made an attempt to climb the mountain but had to turn back.
+es_sentence: Hizo un intento de escalar la montaña pero tuvo que regresar.
+
+en_word: attention
+es_word: atención
+en_sentence: Pay attention to the teacher's instructions.
+es_sentence: Presta atención a las instrucciones del profesor.
+
+en_word: attraction
+es_word: atracción
+en_sentence: The amusement park has many exciting attractions.
+es_sentence: El parque de diversiones tiene muchas atracciones emocionantes.
+
+en_word: august
+es_word: agosto
+en_sentence: My birthday is in August.
+es_sentence: Mi cumpleaños es en agosto.
+
+en_word: authority
+es_word: autoridad
+en_sentence: The police have the authority to enforce the law.
+es_sentence: La policía tiene la autoridad para hacer cumplir la ley.
+
+en_word: autobus
+es_word: autobús
+en_sentence: I take the autobus to work every day.
+es_sentence: Tomo el autobús al trabajo todos los días.
+
+en_word: automatic
+es_word: automático
+en_sentence: The door opened automatically as I approached.
+es_sentence: La puerta se abrió automáticamente cuando me acerqué.
+
+en_word: automobile
+es_word: automóvil
+en_sentence: He bought a new automobile with the latest features.
+es_sentence: Compró un automóvil nuevo con las últimas características.
+
+en_word: average
+es_word: promedio
+en_sentence: The average temperature in summer is around 25 degrees Celsius.
+es_sentence: La temperatura promedio en verano es alrededor de 25 grados Celsius.

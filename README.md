@@ -25,6 +25,45 @@
     basics without verbs, I'm aiming for a slightly higher level of fluency.
 * I'll use [this list](https://www.poetrysoup.com/common_words/common_verbs.aspx) 
     for verbs.
-    ** The same list can also be found [here](https://www.syllablecount.com/syllables/words/verbs.aspx).
-    ** It's therefore very likely both sites are pulling it from another source.
+    * The same list can also be found [here](https://www.syllablecount.com/syllables/words/verbs.aspx).
+    * It's therefore very likely both sites are pulling it from another source.
 * [This site](https://www.english-corpora.org/) may ultimately prove useful as well.
+* This is the prompt I've used in ChatGPT to create sentence translations for words:
+    > For the following list of words provide a Spanish translation for the word 
+        (in a Mexican dialect where applicable) and an example sentence using the word.  
+        You should provide the English word, the Spanish translation, the English 
+        sentence, and the Spanish sentence as output in the following format:
+    >
+    > ---
+    > en_word: [the English word]\
+    > es_word: [the Spanish word]\
+    > en_sentence: [the English sentence]\
+    > es_sentence: [the Spanish sentence]\
+* [This site](https://baselang.com/blog/basic-grammar/all-the-spanish-verb-tenses/)
+    helps explain verb tenses.
+* This is the prompt I used for verbs:
+    > For the following list of verbs provide a Spanish translation for the word 
+    > (in a Mexican dialect where applicable) and an example sentence using the word.  
+    > If the word can be treated as another particle of speech, use it as a verb.  
+    > If the word has multiple translations as a verb (like 'to be' in Spanish, 
+    > which translates to 'ser' or 'estar'), provide examples for both.  You should 
+    > provide the English word, the Spanish translation, the English sentence, and 
+    > the Spanish sentence as output in the following sample YAML format.
+    >
+    > ---
+    > en_word: [the English word]\
+    > es_words:\
+    > [Spanish word 1]\
+    > [Spanish word 2]\
+    > en_sentences:\
+    > [English sentence 1]\
+    > [English sentence 2]\
+    > es_sentences:\
+    > [Spanish sentence 1]\
+    > [Spanish sentence 2]\
+* The YAML format was somewhat crappy, so I followed it up with the following prompt:
+    > Reformat the previous output to fit the following format:
+    >
+    > {'en_word':English word, 'es_words':[list of Spanish words],
+    >   'en_sentences':[list of English sentences],
+    >   'es_sentences':[list of Spanish translations]}
