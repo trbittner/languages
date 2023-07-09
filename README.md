@@ -21,3 +21,10 @@
 * As an aside, [this link](https://blog.logrocket.com/axios-vs-fetch-best-http-requests/) 
     explains why the `axios` library still has richer functionality compared to
     the built in `fetch` library in JS.
+* The wordlist above omits verbs.  While in theory one is able to communicate the
+    basics without verbs, I'm aiming for a slightly higher level of fluency.
+* I'll use [this list](https://www.poetrysoup.com/common_words/common_verbs.aspx) 
+    for verbs.
+    ** The same list can also be found [here](https://www.syllablecount.com/syllables/words/verbs.aspx).
+    ** It's therefore very likely both sites are pulling it from another source.
+* [This site](https://www.english-corpora.org/) may ultimately prove useful as well.
