@@ -12,7 +12,10 @@ axios(url)
         const addendum = createWordArray($,'Addendum')
         const compound = createWordArray($,'Compound')
         const endings = createWordArray($,'Endings')
-        const words = [...basics,...international,...addendum,...compound,...endings];
+        const words = 
+            [...basics,...international,...addendum,...compound,...endings]
+            .map(word => word.toLowerCase())
+            .sort()
 
         console.log(words.length)
         
@@ -20,10 +23,10 @@ axios(url)
             console.log(word);
         }
         
-        //console.log(basics)
         
     })
     .catch(console.error);
+    
     
 const createWordArray = (domParser,key) => {
     return domParser('b:contains("' + key + ':")').nextAll('a').
