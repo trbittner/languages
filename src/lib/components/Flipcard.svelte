@@ -12,6 +12,21 @@
   }
 </script>
 
+<div class="flex items-center justify-center h-screen">
+  <div
+    class="bg-white w-64 h-40 rounded-md shadow-md flex flex-col items-center justify-center cursor-pointer perspective"
+    class:flip-card="{showAnswer}"
+    on:click={flipCard}
+  >
+    <div class="front">
+      <h2 class="text-lg font-semibold">{cardContent.question}</h2>
+    </div>
+    <div class="back transform rotate-y-180">
+      <p class="text-lg">{cardContent.answer}</p>
+    </div>
+  </div>
+</div>
+
 <style>
   .flip-card {
     animation: flip 0.6s;
@@ -42,18 +57,3 @@
     backface-visibility: hidden;
   }
 </style>
-
-<div class="flex items-center justify-center h-screen">
-  <div
-    class="bg-white w-64 h-40 rounded-md shadow-md flex flex-col items-center justify-center cursor-pointer perspective"
-    class:flip-card="{showAnswer}"
-    on:click={flipCard}
-  >
-    <div class="front">
-      <h2 class="text-lg font-semibold">{cardContent.question}</h2>
-    </div>
-    <div class="back transform rotate-y-180">
-      <p class="text-lg">{cardContent.answer}</p>
-    </div>
-  </div>
-</div>
