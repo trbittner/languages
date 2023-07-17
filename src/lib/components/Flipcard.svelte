@@ -1,50 +1,39 @@
 <script>
-  import { flip } from "svelte/animate";
-
-  let showAnswer = false;
   let cardContent = {
     question: "What is the capital of France?",
     answer: "Paris"
   };
-
-  function flipCard() {
-    showAnswer = !showAnswer;
-  }
 </script>
 
 <div class="flex items-center justify-center h-screen">
-  <div class="bg-blue-300 w-1/2 aspect-video rounded-md shadow-md flex items-center justify-center">
-    <p class="text-lg text-gray-700 text-center">{cardContent.question}</p>
+  <div class="w-1/2 aspect-video bg-blue-300 rounded-md shadow-md flex items-center justify-center flip-card">
+    <div class="flip-card-inner relative w-full h-full">
+      <div class="flip-card-front flex items-center justify-center absolute w-full h-full z-10">
+        <p class="text-lg text-gray-700 text-center">{cardContent.question}</p>
+      </div>
+      <div class="flip-card-back flex items-center justify-center absolute w-full h-full">
+        <p class="text-lg text-gray-700 text-center">{cardContent.answer}</p>
+      </div>
+    </div>
   </div>
 </div>
 
 <style>
-  /* .flip-card {
-    animation: flip 0.6s;
-  }
-
-  @keyframes flip {
-    from {
-      transform: rotateY(0);
-    }
-    to {
-      transform: rotateY(180deg);
-    }
+  .flip-card {
+    perspective: 1000px;
   }
   
-  .perspective {
-    perspective: 1000px;
-    transform-style: preserve-3d;
+  .flip-card-inner {
     transition: transform 0.6s;
+    transform-style: preserve-3d;
   }
-
-  .front,
-  .back {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+  
+  .flip-card-front,
+  .flip-card-back {
     backface-visibility: hidden;
-  } */
+  }
+  
+  .flip-card-back {
+    transform: rotateY(180deg);
+  }
 </style>
