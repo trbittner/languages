@@ -13,22 +13,13 @@
 </script>
 
 <div class="flex items-center justify-center h-screen">
-  <div
-    class="bg-white w-64 h-40 rounded-md shadow-md flex flex-col items-center justify-center cursor-pointer perspective"
-    class:flip-card="{showAnswer}"
-    on:click={flipCard}
-  >
-    <div class="front">
-      <h2 class="text-lg font-semibold">{cardContent.question}</h2>
-    </div>
-    <div class="back transform rotate-y-180">
-      <p class="text-lg">{cardContent.answer}</p>
-    </div>
+  <div class="bg-blue-300 w-1/2 aspect-video rounded-md shadow-md flex items-center justify-center">
+    <p class="text-lg text-gray-700 text-center">{cardContent.question}</p>
   </div>
 </div>
 
 <style>
-  .flip-card {
+  /* .flip-card {
     animation: flip 0.6s;
   }
 
@@ -55,5 +46,5 @@
     width: 100%;
     height: 100%;
     backface-visibility: hidden;
-  }
+  } */
 </style>
