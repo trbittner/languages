@@ -12,8 +12,9 @@
 </script>
 
 <div class="flex items-center justify-center h-screen">
-  <div class="w-1/2 aspect-video bg-blue-300 rounded-md shadow-md flex items-center justify-center flip-card" 
-    on:click={flipCard} class:bg-yellow-200={isFlipped} >
+  <div class="w-1/2 aspect-video bg-blue-300 border-4 border-yellow-200
+    rounded-md shadow-md flex items-center justify-center flip-card" 
+    on:click={flipCard} class:border-blue-300={isFlipped} class:bg-yellow-200={isFlipped}>
     <div class="flip-card-inner relative w-full h-full" class:flipped={isFlipped}>
       <div class="flip-card-front flex items-center justify-center absolute w-full h-full">
         <p class="text-lg text-gray-700 text-center">{cardContent.question}</p>
