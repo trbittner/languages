@@ -1,8 +1,7 @@
 <script>
     export let question = '';
     export let answer= '';
-  
-  let isFlipped = false;
+    export let isFlipped = false;
   
   const flipCard = () => {
       isFlipped = !isFlipped;
