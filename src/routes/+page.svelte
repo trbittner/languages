@@ -32,8 +32,8 @@
     }
 </script>
 
-<div class="flex flex-col items-center justify-center h-screen">
-    <div class="w-1/2 aspect-video flex items-center justify-center flip-card" 
+<div class="flex flex-col items-center justify-center lg:h-screen">
+    <div class="w-full lg:w-1/2 aspect-video flex items-center justify-center flip-card" 
     on:click={flipCard}>
         <div class="flip-card-inner relative w-full h-full" class:flipped={isFlipped}>
             <Flashcard {question} {answer} />
