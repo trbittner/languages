@@ -1,11 +1,11 @@
 <script>
-    import { vocab } from '$lib/vocab.js';
+    import { data } from '$lib/data/es/greetings-and-intros.js';
     import Flashcard from '$lib/components/Flashcard.svelte';
     
     let flashCardIndex = 0;
     
-    $: question = vocab[flashCardIndex].question;
-    $: answer = vocab[flashCardIndex].answer;
+    $: question = data.vocab[flashCardIndex].english;
+    $: answer = data.vocab[flashCardIndex].spanish;
     
     let isFlipped = false;
     
@@ -16,7 +16,7 @@
     const previousCard = () => {
         isFlipped = false;
         if (flashCardIndex === 0) {
-            flashCardIndex = vocab.length - 1;
+            flashCardIndex = data.vocab.length - 1;
         } else {
             flashCardIndex -= 1;
         }    
@@ -24,7 +24,7 @@
     
     const nextCard = () => {
         isFlipped = false;
-        if (flashCardIndex === vocab.length -1) {
+        if (flashCardIndex === data.vocab.length - 1) {
             flashCardIndex = 0;
         } else {
             flashCardIndex += 1;
